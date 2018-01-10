@@ -32,7 +32,7 @@ function johnLennonFacts(facts){
     let i = 7
 
     do{
-      beatleLove.push(`${n[1]}I love the Beatles!`)
+      beatleLove.push(`I love the Beatles!`)
       i++
     }
 
