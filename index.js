@@ -36,7 +36,7 @@ function johnLennonFacts(facts){
       i++
     }
 
-    while(i < 17 )
+    while(i < 15 )
 
     return beatleLove;
 
