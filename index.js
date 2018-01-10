@@ -38,6 +38,13 @@ function johnLennonFacts(facts){
 
     while(i < 15 )
 
+    do{
+      let i = 17
+      beatleLove.push("I Love the Beatles!")
+    }
+
+    while (i <18)
+
     return beatleLove;
 
 
