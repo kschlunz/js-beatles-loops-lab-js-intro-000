@@ -27,9 +27,9 @@ function johnLennonFacts(facts){
 
 
 
-  function iLoveTheBeatles(n){
+  function iLoveTheBeatles(number){
     var beatleLove = new Array();
-    let i = 7
+    let i = number
 
     do{
       beatleLove.push(`I love the Beatles!`)
@@ -38,7 +38,7 @@ function johnLennonFacts(facts){
 
     while(i < 15 )
 
-    
+
 
     return beatleLove;
 
